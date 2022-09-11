@@ -1,1 +1,1 @@
-console.log("sortujemy...");
+console.log("sortujemy!");
